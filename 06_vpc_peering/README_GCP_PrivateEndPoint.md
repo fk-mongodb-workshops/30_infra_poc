@@ -36,7 +36,12 @@ Next
 
 ## Connect via MongoSH
 
+From VM instance-20250619-155906
+
 mongosh "mongodb+srv://prd-gcp-pl-0.hixjx.mongodb.net/" --apiVersion 1 --username fkadmin 
+
+![image](https://github.com/user-attachments/assets/e14fd312-71f3-47ad-9111-1017adb1919d)
+
 
 
 
