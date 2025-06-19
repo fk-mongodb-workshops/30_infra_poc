@@ -32,6 +32,11 @@ Next
 
 ## Private endpoint is successfully created
 
-![image](https://github.com/user-attachments/assets/69be7752-b6a7-4651-ba95-19ce203dbaf4)
+![image](https://github.com/user-attachments/assets/4cf08060-cdfe-4e01-bf69-1b3436974349)
+
+## Connect via MongoSH
+
+mongosh "mongodb+srv://prd-gcp-pl-0.hixjx.mongodb.net/" --apiVersion 1 --username fkadmin 
+
 
 
