@@ -27,9 +27,14 @@ Once initiated, peering request is created as shown below
 
 Now, create a reciprocal connection from GCP to Atlas to complete this connection
 
-Enter a name for your peering connection.
-Under Your VPC network select your Application VPC.
-Choose the In another project radio button.
-Enter the Atlas Project ID and Atlas VPC name shown on the Atlas peering connection table.
+![image](https://github.com/user-attachments/assets/831a33b2-62dc-4923-a3ae-b45b429f370e)
+
+VPC Peering is created in GCP and Atlas
+
+![image](https://github.com/user-attachments/assets/71f81b62-85f1-4ab6-8742-fdda01901547)
+
+![image](https://github.com/user-attachments/assets/b75583fc-5acd-4c9d-a84f-836637fa67e9)
+
+
 
 
