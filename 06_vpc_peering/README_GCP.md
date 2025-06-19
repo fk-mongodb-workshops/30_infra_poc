@@ -37,6 +37,8 @@ VPC Peering is created in GCP and Atlas
 
 ## Test connectivity
 
+From fernando-mongodb-ce-1 VM
+
 ![image](https://github.com/user-attachments/assets/714b4309-b745-4e3b-96d3-d4eea60f557b)
 
 
