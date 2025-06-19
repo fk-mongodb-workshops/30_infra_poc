@@ -13,3 +13,23 @@ https://console.cloud.google.com/compute/instancesDetail/zones/asia-southeast1-b
 ![image](https://github.com/user-attachments/assets/bb83fd39-2196-4f81-80b4-92558945a6c5)
 ![image](https://github.com/user-attachments/assets/299419aa-fcba-49bf-be5b-9239fd073cf5)
 
+## Create Peering Connection
+
+![image](https://github.com/user-attachments/assets/100001e8-e91b-485f-9af5-b8e0925487c5)
+
+Populate project ID and VPC Name
+
+![image](https://github.com/user-attachments/assets/ff4d3997-5d91-4b4b-91c8-19b6dc93f421)
+
+Once initiated, peering request is created as shown below
+
+![image](https://github.com/user-attachments/assets/63d7ee78-a17b-47e4-8751-ed2b695de90b)
+
+Now, create a reciprocal connection from GCP to Atlas to complete this connection
+
+Enter a name for your peering connection.
+Under Your VPC network select your Application VPC.
+Choose the In another project radio button.
+Enter the Atlas Project ID and Atlas VPC name shown on the Atlas peering connection table.
+
+
