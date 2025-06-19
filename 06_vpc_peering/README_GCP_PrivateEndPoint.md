@@ -30,3 +30,8 @@ Next
 
 ![image](https://github.com/user-attachments/assets/05c7dcc0-d623-4a1a-afb3-cbd7a1396838)
 
+## Private endpoint is successfully created
+
+![image](https://github.com/user-attachments/assets/69be7752-b6a7-4651-ba95-19ce203dbaf4)
+
+
